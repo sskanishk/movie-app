@@ -5,3 +5,5 @@ commit 2 - branch_two
 commit 3 - branch_two
 
 commit 4 - branch_two
+
+commit 5 - branch_two
